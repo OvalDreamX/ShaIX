@@ -1,0 +1,24 @@
+# Blender 3.2.1 MTL File: 'shaIXUVPack5.blend'
+# www.blender.org
+
+newmtl Uv_Mat
+Ns 202.500000
+Ka 0.145000 0.145000 0.145000
+Kd 0.800000 0.800000 0.800000
+Ks 0.600000 0.600000 0.600000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd Imagenes/TexGrid.png
+
+newmtl Uv_Mat.Int
+Ns 202.500000
+Ka 0.145000 0.145000 0.145000
+Kd 0.800000 0.800000 0.800000
+Ks 0.600000 0.600000 0.600000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd Output/tEX.png
